@@ -14,4 +14,7 @@ import java.util.List;
 public interface ArticleMapper {
 List<Article> getAllArtics();
   List<Article> getAllArtics2();
+  void tes11();
+  void test22();
+  void test33();
 }
