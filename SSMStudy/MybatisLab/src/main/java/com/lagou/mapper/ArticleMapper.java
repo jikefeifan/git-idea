@@ -17,4 +17,7 @@ List<Article> getAllArtics();
   void tes11();
   void test22();
   void test33();
+  void tes1();
+  void test2();
+  void test3();
 }
