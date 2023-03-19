@@ -2,7 +2,7 @@ package com.lagou.domain;
 
 /**
  * @Author: CXB
- * @ClassName: Comment
+ * @ClassName: 更改了一些文件Comment
  * @Date: 2022/8/25 23:38
  * @Description: //TODO
  * @Version: V1.0
