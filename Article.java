@@ -46,7 +46,7 @@ public class Article {
     }
 
     public void setContent(String content) {
-        this.content = content;
+        this.content = content; //加点注释github
     }
 
 //    public List<Comment> getComments() {
