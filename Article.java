@@ -57,4 +57,3 @@ public class Article {
 //        this.comments = comments;
 //    }
 }
-
