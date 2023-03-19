@@ -46,7 +46,11 @@ public class Article {
     }
 
     public void setContent(String content) {
+<<<<<<< HEAD
         this.content = content; //加点注释idea2222222222222222
+=======
+        this.content = content; //加点注释github111111111111111111
+>>>>>>> 7d8e7469fa0188cc8aa5cb1a45351de352ca58c4
     }
 
 //    public List<Comment> getComments() {
