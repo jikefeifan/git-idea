@@ -42,7 +42,7 @@ public class Article {
     }
 
     public String getContent() {
-        return content;
+        return content;//加点注释idea
     }
 
     public void setContent(String content) {
